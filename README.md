@@ -27,6 +27,8 @@ Este Projeto Reforça conceitos fundamentais de desenvolvimento full stack, espe
   . CSS3
   
   . JavaScript
+
+  . Consumo de API REST (OMDb API)
   
   . Manipulação de DOM
   
